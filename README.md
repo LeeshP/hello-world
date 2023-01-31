@@ -2,4 +2,4 @@
 
 My First Repository on GitHub
 
-I love :books: :sushi: :sunflower:
+I love :books: :sushi: 🌻
